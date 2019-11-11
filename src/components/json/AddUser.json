@@ -1,0 +1,11 @@
+{
+    "user":"Cerveza",
+    "password":1,
+    "name":"Federico",
+    "lastname": "Macheda",
+    "date":"12/4/1988",
+    "adress":"Calle22",
+    "city":"Medellin",
+    "Country":"Colombia",
+    "code":"555"
+}
